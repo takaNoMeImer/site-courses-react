@@ -1,0 +1,11 @@
+footer {
+    padding: 2rem;
+    border-top: 1px solid rgb(197, 197, 197);
+}
+footer {
+    font-size: 1.2rem;
+}
+.footerContainer {
+    width: 90%;
+    margin: 0 auto;
+}

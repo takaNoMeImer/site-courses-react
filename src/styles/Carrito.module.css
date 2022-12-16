@@ -1,0 +1,9 @@
+.carrito {
+    position: absolute;
+    top: 4rem;
+    right:6rem;
+    border-radius: 5px;
+    width: 400px;
+    background-color: white;
+    border: 1px solid rgb(199, 199, 199);
+}
